@@ -18,6 +18,11 @@
 
 - [GORM](https://gorm.io/)
 
+## Redis
+
+- [Redis Client](https://github.com/redis/go-redis)
+- [Redis Mock](https://github.com/alicebob/miniredis)
+
 ## Network
 
 - [Netpoll](https://github.com/cloudwego/netpoll)
@@ -27,7 +32,12 @@
 - [Sonic](https://github.com/bytedance/sonic)
 - [jsoniter](https://github.com/low901028/jsoniter)
 
-## 单元测试 Unit Test
+## Property
+
+- [Viper](https://github.com/spf13/viper)
+- [GoDotEnv](https://github.com/joho/godotenv)
+
+## Unit Test
 
 - [Assertions](https://github.com/stretchr/testify)
 - [Test Case](https://github.com/smartystreets/goconvey)
@@ -36,9 +46,10 @@
 - [SQL Mock](https://github.com/DATA-DOG/go-sqlmock)
 - [Redis Mock](https://github.com/alicebob/miniredis)
 
-## EventBus
+## Async Programing
 
-- [tzq0301/eventbus](https://github.com/tzq0301/eventbus)
+- [EventBus](https://github.com/tzq0301/eventbus)
+- [Promise](https://github.com/chebyrash/promise)
 
 ## Script Language
 
