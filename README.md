@@ -38,7 +38,7 @@
 
 ## EventBus
 
-- [EventBus](https://github.com/tzq0301/eventbus)
+- [tzq0301/eventbus](https://github.com/tzq0301/eventbus)
 
 ## Script Language
 
